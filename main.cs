@@ -3,6 +3,6 @@ public class A {
 
     int yas = 20;
 
-
+string isim = "test";
 
 }
